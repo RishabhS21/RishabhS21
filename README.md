@@ -9,6 +9,7 @@
 -  &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - &nbsp; Studying Computer Science at IIT Delhi.
 - &nbsp; Enthusiast in Machine Learning, Artificial Intelligence and Cryptography.
+- &nbsp; Know more at https://rishabhkumariitd.netlify.app/
 
 <h3>🛠 Tech Stack</h3>
 
